@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Aston_HW_2_Custom_View_20</string>
+    <string name="app_name">HW_2_Custom_View</string>
+    <string name="some_image">someImage</string>
+    <string name="reset">reset</string>
 </resources>

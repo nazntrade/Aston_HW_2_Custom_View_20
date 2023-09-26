@@ -1,8 +1,7 @@
-package com.becker.aston_hw_2_custom_view_20
+package com.becker.hw_2_custom_view
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).
